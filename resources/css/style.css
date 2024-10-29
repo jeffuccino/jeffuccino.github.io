@@ -1,0 +1,57 @@
+
+html {
+    background-color: black;
+    color: white;
+    font-family: Verdana;
+}
+
+p {
+    font-weight: normal;
+    font-size: 50px;
+}
+
+a {
+    font-size: 16px;
+    color: aquamarine;
+}
+
+a:hover {
+    color: red;
+}
+
+h3 {
+    color: gray;
+}
+
+.topbanner {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.phone {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.midline {
+    text-align: center;
+}
+
+.midline p {
+    font-size: 42px; 
+}
+
+.camping {
+    display: flex;
+    justify-content: center;
+}
+
+.bottom {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.copyright {
+    float: right;
+}
